@@ -5,5 +5,16 @@ age = 30;
 
 console.log(age);
 const points = 100;
-points = 50;
+
 console.log(points);
+
+Strings
+
+// String concatenation
+
+// getting characters
+
+// String length
+
+// String methods
+
